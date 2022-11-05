@@ -12,6 +12,4 @@ Skills: Javascript/Python/HTML/CSS/C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ltaa)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ltaa&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/D3ltaa)  
