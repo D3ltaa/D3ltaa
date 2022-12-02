@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is !Delta!
 I have 4 years of experience in discord tool se javascript kai python and now I am learning html css
 
-Skills: Javascript/Python/HTML/CSS/C++
+Skills: Discord.js/Node.js/Javascript/Python/HTML/CSS/C++
 
 - 🔭 I’m currently working on more discord tools 
 - 🌱 I’m currently learning html/css 
