@@ -1,4 +1,4 @@
-### Hi there 👋, my name is D3ltaa
+### Hi there 👋, my name is !Delta!
 I have 4 years of experience in discord tool se javascript kai python and now I am learning html css
 
 Skills: Javascript/Python/HTML/CSS/C++
