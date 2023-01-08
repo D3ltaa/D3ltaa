@@ -18,24 +18,31 @@
 <br> Portofolio <br>
 
 -Invite Leaderboard
+
 ![image](https://user-images.githubusercontent.com/84965244/211204867-ccc9ad05-0771-488f-ae47-31812b57122f.png)
 
 -Discord Application System
+
 ![image](https://user-images.githubusercontent.com/84965244/211204939-4a71cb13-942b-4a74-bf22-746e269ebeff.png)
 
 -Ticket System
+
 ![image](https://user-images.githubusercontent.com/84965244/211205149-ad2c4087-9165-4037-beb9-61c3ea9a3775.png)
 
 -Ticket System  Topic Selection
+
 ![image](https://user-images.githubusercontent.com/84965244/211205193-fbffa44b-0782-406b-bc34-1df0bce223a9.png)
 
 -Ticket System Logs
+
 ![image](https://user-images.githubusercontent.com/84965244/211205125-21b8d011-3dad-4409-ad81-2ecebc728e94.png)
 
 -External Links (Buttons)
+
 ![image](https://user-images.githubusercontent.com/84965244/211205484-8a4acf3d-5bf1-4116-951a-12af9d229638.png)
 
 -On/Off Duty for you staff
+
 ![photo](https://user-images.githubusercontent.com/84965244/211205698-574c4bd1-7cba-4de0-a17f-c137fa7abeb8.png)
 
 
