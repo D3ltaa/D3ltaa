@@ -1,15 +1,18 @@
-### Hi there 👋, my name is !Delta!
-I have 4 years of experience in discord tool se javascript kai python and now I am learning html css
-
-Skills: Discord.js/Node.js/Javascript/Python/HTML/CSS/C++
-
-- 🔭 I’m currently working on more discord tools 
-- 🌱 I’m currently learning html/css 
-- 💬 Ask me about any help about  discord tools 
+# 💫 About Me:
+🔭 I’m currently working on more discord tools<br>🌱 I’m currently learning html/css<br>💬 Ask me about any help about discord tools
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/D3ltaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/HCAz2T4a)  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8gecYgdmYQ) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ltaa)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=D3ltaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=D3ltaa&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ltaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/D3ltaa)  
+---
+[![](https://visitcount.itsvg.in/api?id=D3ltaa&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
