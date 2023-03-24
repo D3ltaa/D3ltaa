@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on more discord tools<br>🌱 I’m currently learning html/css<br>💬 Ask me about any help about discord tools
+🔭 I’m currently working on more discord tools<br>🌱 I’m currently learning html/css<br>💬 Ask me any help about discord tools
 
 
 ## 🌐 Socials:
