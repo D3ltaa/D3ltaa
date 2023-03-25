@@ -29,7 +29,7 @@
 
 -Ticket System Logs
 
-![image](https://user-images.githubusercontent.com/84965244/211205125-21b8d011-3dad-4409-ad81-2ecebc728e94.png)
+![image](https://user-images.githubusercontent.com/84965244/227672364-3092af61-28c3-45cd-a60d-e231a4fcaadc.png)
 
 -External Links (Buttons)
 
