@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **NodeJS, HTML, CSS**
+- 💬 Ask me about **NodeJS,Javascript, HTML, CSS**
 
 - 📄 Know about my experiences [my experiences](https://github.com/D3ltaa)
 
