@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Bots with dashboards**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **NodeJS, HTML, CSS**
 
