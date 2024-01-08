@@ -6,7 +6,7 @@
     I'm a passionate and creative discord bot developer and website developer. I love making fun and useful bots for discord servers, as well as designing and developing responsive and user-friendly websites. Some of the projects I have worked on are my <a href="https://github.com/D3ltaa">GitHub</a>. I am always open to new challenges and opportunities to learn and grow as a developer.If you want to chat with me, you can find me on <a href="https://discord.gg/K9XhTraj">Discord</a>. I would love to hear from you and collaborate on some awesome projects.
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3ltaa&label=Profile%20views&color=0e75b6&style=flat" alt="d3ltaa" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
