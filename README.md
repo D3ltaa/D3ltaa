@@ -1,7 +1,6 @@
 # 💫 About Me:
 💻 Currently working on: Improving my Discord  bot with dashboard and exploring new web design trends.<br>📚 Currently learning: Advanced JavaScript & Playwright for browser automation.<br>💬 Ask me about: JavaScript, Discord.js, and front-end design.<br>📫 How to reach me: [Discord](https://discord.gg/qkRQc7vVtE)<br>⚡ Fun fact: My first Discord bot started as a simple experiment and turned into a full-fledged project!
 
-![image](https://github.com/user-attachments/assets/a942ee21-3e95-4056-8008-22189b1fe971)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qkRQc7vVtE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikosdelta__) 
