@@ -1,9 +1,7 @@
 # Hi 👋, I'm !Delta!
 
-### A passionate frontend developer fFull-stack developer & Discord bot developer, building web apps, bots, and interactive dashboardsrom India
+### A passionate frontend developer Full-stack developer & Discord bot developer, building web apps, bots, and interactive dashboardsrom India
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=D3ltaa" alt="D3ltaa" /></a> </p>
 
 - 🔭 I'm currently working on **a Public Discord bot people actually use**
 
