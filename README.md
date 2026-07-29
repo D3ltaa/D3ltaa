@@ -16,7 +16,7 @@
   <img src="./profile/stats.svg" height="150" alt="stats graph" />
   <img src="./profile/languages.svg" height="150" alt="languages graph" />
 </div>
-###
+<!-- ### -->
 
 <h3 data-importer="text" align="left">Full Stack Developer</h3>
 
