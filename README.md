@@ -2,17 +2,6 @@
 
 ###
 
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=D3ltaa.D3ltaa&"  />
-</div>
-
-###
-
-<!-- <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=D3ltaa&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=D3ltaa&show_icons=true&include_all_commits=true&theme=dark)
 <!-- ### -->
 
 <h3 data-importer="text" align="left">Full Stack Developer</h3>
@@ -67,6 +56,18 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=D3ltaa.D3ltaa&"  />
+</div>
+
+###
+
+<!-- <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=D3ltaa&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=D3ltaa&show_icons=true&include_all_commits=true&theme=dark)
 
 ###
 
