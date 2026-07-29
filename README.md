@@ -2,7 +2,7 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
+<div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=D3ltaa.D3ltaa&"  />
 </div>
 
