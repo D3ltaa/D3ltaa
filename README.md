@@ -1,38 +1,77 @@
-# 👨‍💻 !Delta
+<h2 data-importer="text" align="left">Hi 👋! My name is Nick</h2>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/D3ltaa&color=blue&style=flat-square)](https://github.com/https://github.com/D3ltaa)
+###
 
-## Full Stack Developer
-
-> A passionate full stack developer Full-stack developer & Discord bot developer, building web apps, bots, and interactive dashboardsrom India
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-333?style=for-the-badge&logo=bash&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-333?style=for-the-badge&logo=nginx&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodejs&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-333?style=for-the-badge&logo=chartdotjs&logoColor=white) ![CanvasJS](https://img.shields.io/badge/CanvasJS-333?style=for-the-badge&logo=canvasjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-333?style=for-the-badge&logo=puppeteer&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-333?style=for-the-badge&logo=sqlite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 📚 Currently Learning
-
-Multi-tenant SaaS architecture & subscription monetization
-
-### 🤝 Looking to Collaborate
-
-### 💬 Ask Me About
-
-Building & scaling a Discord bot business, productizing custom dev work into SaaS
-
-### 📊 GitHub Statistics
-
-<div align="center">
-
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=D3ltaa.D3ltaa&"  />
 </div>
 
-### 🌐 Connect with Me
+###
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://imdelta.dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@imdelta.dev) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/D3ltaa)
-
-
-<div align="center">
-
-**Thanks for visiting!** 🙏
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 data-importer="text" align="left">Full Stack Developer</h3>
+
+###
+
+<p data-importer="text" align="left">> A passionate full stack developer Full-stack developer & Discord bot developer, building web apps, bots, and interactive dashboardsrom India</p>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgur.com/yvAEwiT.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://discord.com/users/885294271983407125" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:contact@imdelta.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/snake-output/snake.svg" alt="Snake animation" />
+
+###
