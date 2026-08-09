@@ -59,6 +59,8 @@
 
 ###
 
-![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=D3ltaa&theme=github-dark&style=aura)
-![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=D3ltaa&theme=github-dark&style=aura)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=D3ltaa&theme=github-dark&style=aura" alt="GitSkins Animated Stack" width="49%" />
+  <img src="https://www.gitskins.com/api/section/projects?username=D3ltaa&theme=github-dark&style=aura" alt="GitSkins Animated Projects" width="49%" />
+</p>
 ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=D3ltaa&theme=github-dark&style=aura)
