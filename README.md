@@ -57,22 +57,8 @@
   </a>
 </div>
 
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=D3ltaa.D3ltaa&"  />
-</div>
-
 ###
 
-<!-- <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=D3ltaa&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=D3ltaa&show_icons=true&include_all_commits=true&theme=dark)
-
-###
-
-<br clear="both">
-
-<!-- <img data-importer="snake" src="https://raw.githubusercontent.com/D3ltaa/D3ltaa/snake-output/snake.svg" alt="Snake animation" /> -->
-
-###
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=D3ltaa&theme=github-dark&style=aura)
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=D3ltaa&theme=github-dark&style=aura)
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=D3ltaa&theme=github-dark&style=aura)
