@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/D3ltaa">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Delta" alt="Hello! I&#39;m Delta" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Delta" alt="Hello! I&#39;m Nick" />
   </a>
 </p>
 
