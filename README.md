@@ -34,6 +34,9 @@ A passionate full stack developer Full-stack developer &amp; Discord bot develop
 
 <p align="left">
   <a href="https://imdelta.dev/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://discord.com/users/885294271983407125">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 </p>
 
 ### 📊 GitHub Stats
